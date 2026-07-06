@@ -142,7 +142,7 @@ Healthcare_Prediction_Hub/
 ## 1. Clone Repository
 
 ```bash
-git clone repo link here
+git clone https://github.com/github-2346/Health-Prediction-Hub.git
 ```
 
 ## 2. Navigate into Project
